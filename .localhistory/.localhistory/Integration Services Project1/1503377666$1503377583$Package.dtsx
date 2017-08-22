@@ -12,8 +12,8 @@
   DTS:ObjectName="Package"
   DTS:PackageType="5"
   DTS:ProtectionLevel="2"
-  DTS:VersionBuild="10"
-  DTS:VersionGUID="{61C9A5A0-BD97-4FAA-AC89-7B4652D6E7D5}">
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{571DBB47-5143-4743-88B9-105AED38F740}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,12 +27,12 @@
           DTS:ConnectionString="Data Source=DWHBI;User ID=DWH_Build;Initial Catalog=CW_DataWarehouse;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
           <EncryptedData
             Type="http://www.w3.org/2001/04/xmlenc#Element"
-            Salt="Oa8UWk1FBQ=="
-            IV="GsG6wZV7iUk=" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            Salt="pHdy/5d0dQ=="
+            IV="QNzVgbOBsv4=" xmlns="http://www.w3.org/2001/04/xmlenc#">
             <EncryptionMethod
               Algorithm="http://www.w3.org/2001/04/xmlenc#tripledes-cbc" />
             <CipherData>
-              <CipherValue>GsG6wZV7iUk3AUzn8hk0ZSncYTfJjUVm5WZoQJN5WBxNTcnasP//tOxB9lMgajPyQks4O5Pyfj6IqpTbjZYuTa2swDK+xX7SBcc2q97s1abgg6RZDgLIUvgWtRRDipmR2zB15oMBo9ggJmOq8yI7JticlYha3v6u6GoA8SN25J4=</CipherValue>
+              <CipherValue>QNzVgbOBsv65VVjITibV8RLuL1Q0CV9r444RGLbmJW+VDHjaHF8Udxx7E92wLL/2Qf75r/oKMG24kmd+1j7oS/+oHmoZ91JRaGjMP+c9CHCAEmHgEJnqhL9DXA42S5LJ8Fe7SAsi1JJ/nsHFGTC+5Cur8VQSUNjws92Wx+uniUo=</CipherValue>
             </CipherData>
           </EncryptedData>
         </DTS:ConnectionManager>
